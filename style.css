@@ -1,0 +1,37 @@
+
+ body {
+  padding-top: 70px;
+}
+
+
+ #Title {
+	background-image:
+	url("Images/Earthquakes.png");
+	height:500px;
+	margin-top:10px
+	width:auto;
+	text-align:center;
+}
+
+ #Title h1 {
+	font-size:50px;
+	font-weight:900;
+}
+
+#Title h3 {
+	font-size:30px;
+
+}
+
+ 
+#Technologies div .thumbnail img {
+	height:150px;
+}
+
+#Contact {
+	text-align:center;
+}
+
+#Portfolio div .thumbnail {
+	height: 500px;
+}
